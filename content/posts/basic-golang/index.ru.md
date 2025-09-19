@@ -9,10 +9,7 @@ images: []
 resources:
   - name: "featured-image"
     src: "golang-basic.webp"
-
 tags: ["Golang"]
-categories: ["Documentation"]
-
 lightgallery: true
 ---
 

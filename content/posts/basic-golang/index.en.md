@@ -1,6 +1,6 @@
 ---
 # weight: 1
-title: "Golang in brief"
+title: "Golang in Brief"
 date: 2025-03-28
 lastmod: 2025-03-28
 draft: false
@@ -9,10 +9,7 @@ images: []
 resources:
   - name: "featured-image"
     src: "golang-basic.webp"
-
 tags: ["Golang"]
-categories: ["Documentation"]
-
 lightgallery: true
 ---
 

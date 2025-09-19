@@ -2,7 +2,7 @@ baseURL = "https://vyrn.ru"
 theme = "LoveIt"
 # themesDir = "../.."
 title = "Vyrn"
-defaultContentLanguage = "ru"
+defaultContentLanguage = "en"
 languageCode = "ru"
 languageName = "Russian"
 
@@ -50,14 +50,6 @@ pre = ""
 post = ""
 name = "Tags"
 url = "/tags/"
-title = ""
-[[menu.main]]
-weight = 3
-identifier = "categories"
-pre = ""
-post = ""
-name = "Categories"
-url = "/categories/"
 title = ""
 
 [params]
@@ -648,22 +640,7 @@ post = ""
 name = "Tags"
 url = "/tags/"
 title = ""
-[[languages.en.menu.main]]
-weight = 3
-identifier = "categories"
-pre = ""
-post = ""
-name = "Categories"
-url = "/categories/"
-title = ""
-# [[languages.en.menu.main]]
-# weight = 4
-# identifier = "wiki"
-# pre = ""
-# post = ""
-# name = "Wiki"
-# url = "https://wiki.rockylinux.org/rocky/version/"
-# title = ""
+
 [[languages.en.menu.main]]
 weight = 5
 identifier = "about"
@@ -672,14 +649,7 @@ post = ""
 name = "About"
 url = "/about/"
 title = ""
-# [[languages.en.menu.main]]
-# weight = 6
-# identifier = "github"
-# pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-# post = ""
-# name = ""
-# url = "https://github.com/dillonzq/LoveIt"
-# title = "GitHub"
+
 [languages.en.params]
 [languages.en.params.search]
 enable = true
@@ -729,21 +699,6 @@ post = ""
 name = "Тэги"
 url = "/tags/"
 title = ""
-[[languages.ru.menu.main]]
-weight = 3
-identifier = "categories"
-pre = ""
-post = ""
-name = "Категории"
-url = "/categories/"
-title = ""
-# [[languages.ru.menu.main]]
-# weight = 4
-# identifier = "wiki"
-# pre = ""
-# name = "Вики"
-# url = "https://wiki.rockylinux.org/rocky/version/"
-# title = ""
 [[languages.ru.menu.main]]
 weight = 5
 identifier = "about"
