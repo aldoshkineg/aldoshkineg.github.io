@@ -1,1 +1,1 @@
-# Settings
+https://aldoshkineg.github.io
